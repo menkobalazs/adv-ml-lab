@@ -1,0 +1,15 @@
+numpy
+pandas
+librosa
+matplotlib
+scikit-learn
+tensorflow
+tqdm
+subprocess
+warnings
+soundfile 
+tempfile
+shutil
+spotipy
+yt_dlp
+pytube
